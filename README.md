@@ -1,5 +1,6 @@
 # 🔍 AsepRecon (scan)
-
+apt apdete 
+hsiwbuxuw
 ini adalah tool sederhana untuk reconnaissance dan scanning target secara otomatis. Cocok digunakan oleh pemula yang sedang belajar Cyber Security, terutama yang menggunakan Termux, Kali Linux, atau WSL.
 
 ---
